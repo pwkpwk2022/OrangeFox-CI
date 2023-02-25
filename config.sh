@@ -2,7 +2,7 @@
 
 # Device
 export FOX_BRANCH="fox_11.0"
-export DT_LINK=https://github.com/OrangeFoxRecovery/device_qin_k61v1_64_bsp"
+export DT_LINK=https://github.com/OrangeFoxRecovery/device_qin_k61v1_64_bsp -b fox_11.0"
 
 export DEVICE="k61v1_64_bsp"
 export OEM="qin"
