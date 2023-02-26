@@ -2,7 +2,7 @@
 
 # Device
 export FOX_BRANCH="fox_11.0"
-export DT_LINK="https://github.com/pwkpwk2022/device_duoqin_k61v1_64_bsp -b fox_11.0"
+export DT_LINK="https://github.com/pwkpwk2022/device_qin_k61v1_64_bsp -b twrp_k61v1-eng-11-RQ1A.210205.004-eng.yu.20211215.232425-test-keys"
 
 export DEVICE="k61v1_64_bsp"
 export OEM="qin"
