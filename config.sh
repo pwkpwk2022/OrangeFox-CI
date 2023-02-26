@@ -13,7 +13,7 @@ export OEM="qin"
 ## "vendorbootimage" - for devices Using vendor boot for the recovery ramdisk (Usually for devices shipped with Android 12 or higher)
 export TARGET="bootimage"
 
-export OUTPUT="OrangeFoxpwk.zip"
+export OUTPUT="OrangeFox.zip"
 
 # Additional Dependencies (eg: Kernel Source)
 # Format: "repo dest"
