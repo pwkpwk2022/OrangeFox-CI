@@ -18,7 +18,7 @@ export OUTPUT="boot.img"
 # Additional Dependencies (eg: Kernel Source)
 # Format: "repo dest"
 DEPS=(
-    "https://github.com/OrangeFoxRecovery/Avatar.git misc"
+    ""
 )
 
 # Extra Command
