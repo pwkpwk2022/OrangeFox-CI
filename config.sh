@@ -2,10 +2,10 @@
 
 # Device
 export FOX_BRANCH="fox_11.0"
-export DT_LINK="https://github.com/pwkpwk2022/android_device_duoqin_k61v1 -b twrp_k61v1-eng-11-RQ1A.210205.004-eng.yu.20211215.232425-test-keys"
+export DT_LINK="https://github.com/pwkpwk2022/device_qin_k61v1_64_bsp -b fox_11.0"
 
-export DEVICE="k61v1"
-export OEM="duoqin"
+export DEVICE="k61v1_64_bsp"
+export OEM="qin"
 
 # Build Target
 ## "recoveryimage" - for A-Only Devices without using Vendor Boot
