@@ -26,7 +26,7 @@ export EXTRA_CMD="export OF_MAINTAINER=Pwkbuilder"
 
 # Magisk
 ## Use the Latest Release of Magisk for the OrangeFox addon
-export OF_USE_LATEST_MAGISK=false
+export OF_USE_LATEST_MAGISK=true
 
 # Not Recommended to Change
 export SYNC_PATH="$HOME/work" # Full (absolute) path.
