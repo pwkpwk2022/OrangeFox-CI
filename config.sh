@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Device
-export FOX_BRANCH="fox_11.0"
-export DT_LINK="https://github.com/pwkpwk2022/android_device_duoqin_k61v1-master.git -b main"
+export FOX_BRANCH="fox_12.1"
+export DT_LINK="https://github.com/pwkpwk2022/android_device_duoqin_f22 -b main"
 
-export DEVICE="k61v1"
+export DEVICE="f22"
 export OEM="duoqin"
 
 # Build Target
