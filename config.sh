@@ -2,10 +2,10 @@
 
 # Device
 export FOX_BRANCH="fox_11.0"
-export DT_LINK="https://github.com/mujianwu/TWRP-Xiaomi-nabu -b main"
+export DT_LINK="https://github.com/pwkpwk2022/android_device_duoqin_k61v1-master -b main"
 
-export DEVICE="nabu"
-export OEM="xiaomi"
+export DEVICE="k61v1"
+export OEM="duoqin"
 
 # Build Target
 ## "recoveryimage" - for A-Only Devices without using Vendor Boot
